@@ -1,0 +1,54 @@
+[
+  {
+    "id": "56433a49-3987-46f2-b245-9a23375ebf51",
+    "entryDate": "2025-05-23T18:53",
+    "exitDate": "2025-05-23T18:54",
+    "symbol": "XAUUSD",
+    "direction": "buy",
+    "size": 1,
+    "entryPrice": 1.134,
+    "stopLoss": 1.133,
+    "takeProfit": 1.136,
+    "exitPrice": 1.136,
+    "pnl": 0
+  },
+  {
+    "id": "83b56867-8b9f-4cc8-b8c5-f3e8bb1ba911",
+    "entryDate": "2025-05-23T18:53",
+    "exitDate": "2025-05-23T18:54",
+    "symbol": "XAUUSD",
+    "direction": "buy",
+    "size": 1,
+    "entryPrice": 1.134,
+    "stopLoss": 1.133,
+    "takeProfit": 1.136,
+    "exitPrice": 1.136,
+    "pnl": 0
+  },
+  {
+    "id": "fe7cd86e-cc54-4eff-a969-abe8e896d955",
+    "entryDate": "2025-05-23T18:53",
+    "exitDate": "2025-05-23T18:54",
+    "symbol": "XAUUSD",
+    "direction": "buy",
+    "size": 1,
+    "entryPrice": 1.134,
+    "stopLoss": 1.133,
+    "takeProfit": 1.136,
+    "exitPrice": 1.136,
+    "pnl": 0
+  },
+  {
+    "id": "195506d2-903d-4680-b9ba-7af610478e94",
+    "entryDate": "2025-05-23T18:53",
+    "exitDate": "2025-05-23T18:54",
+    "symbol": "XAUUSD",
+    "direction": "buy",
+    "size": 1,
+    "entryPrice": 1.134,
+    "stopLoss": 1.133,
+    "takeProfit": 1.136,
+    "exitPrice": 1.136,
+    "pnl": 0
+  }
+]
